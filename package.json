@@ -23,7 +23,7 @@
   "dependencies": {
     "@javascript-obfuscator/escodegen": "2.3.0",
     "@javascript-obfuscator/estraverse": "5.4.0",
-    "acorn": "8.8.2",
+    "acorn": "8.11.3",
     "assert": "2.0.0",
     "chalk": "4.1.2",
     "chance": "1.1.9",
